@@ -1,4 +1,4 @@
-- ሰላም 👋 Hi, I’m Mercy 
+- ## ሰላም 👋 Hi, I’m Mercy 
 - 👀 I’m interested in learning new things 🌱
 - 👻 Fun fact: It's Impossible to Hum While You Hold Your Nose :)
 
