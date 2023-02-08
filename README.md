@@ -5,8 +5,6 @@
 - 👀 I’m interested in learning new things 🌱
 - 👻 Fun fact: It's Impossible to Hum While You Hold Your Nose :)
 
-<img align="right" width="320" height="280" src="https://raw.githubusercontent.com/M-e-r-c-y/M-e-r-c-y/main/hello.gif" alt="my bitmoji" />
-<br />
 
 <div align="center">A Computer Engineering Major</div>
 
