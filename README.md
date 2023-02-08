@@ -1,5 +1,5 @@
 - ## ሰላም 👋 Hi, I’m Mercy 
-<img align="right" width="320" height="280" src="https://raw.githubusercontent.com/M-e-r-c-y/M-e-r-c-y/main/wave.gif" alt="my bitmoji" />
+<img align="left" width="320" height="280" src="https://raw.githubusercontent.com/M-e-r-c-y/M-e-r-c-y/main/wave.gif" alt="my bitmoji" />
 <br />
 
 - 👀 I’m interested in learning new things 🌱
