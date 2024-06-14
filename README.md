@@ -6,7 +6,7 @@
 - 👻 Fun fact: It's Impossible to Hum While You Hold Your Nose :)
 
 
-<div align="center">A Computer Engineering Major</div>
+<div align="center">Computer Engineering Graduate</div>
 
 <!---
 M-e-r-c-y/M-e-r-c-y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
